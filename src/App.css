@@ -1,0 +1,6 @@
+body{
+  background-color: cadetblue;
+}
+canvas{
+  height: 100vh !important;
+}
